@@ -8,11 +8,10 @@
   A clean iOS calculator app built with Swift, UIKit, and Storyboard using the MVC architecture.
 </p>
 
-## Screenshots
+## Demo
 
 <p align="center">
-  <img src="./screenshots/calculator-main.png" width="45%" />
-  <img src="./screenshots/calculator-landscape.png" width="45%" />
+  <img src="https://github.com/user-attachments/assets/8729f38f-cd9f-4b8e-97a6-2ce8f79eff76" width="45%" />
 </p>
 
 ## Features
